@@ -27,3 +27,7 @@ As the companies get bigger, the high churn could become a bigger problem. To fi
 [OLA_ensemble_driver_churn.webm](https://github.com/user-attachments/assets/dc60f1d8-39dd-4e64-8c0e-c8e3f36c040c)
 
 Future updates : Flask Api + docker +  deploy on AWS....
+
+Created a flask api and tested it on POSTMAN 
+
+since it is a small-scale app and I'm managing everything manually on a single EC2 instance, cloning from GitHub and setting up the environment manually usually works but if I'm working production level scale I nned an isolated docker container. 

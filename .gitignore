@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+Ola__Tree_Models___Final_X__scaler_solution.pdf
+ola_driver_scaler.csv
+Ola_submitted.ipynb
 # Distribution / packaging
 .Python
 build/

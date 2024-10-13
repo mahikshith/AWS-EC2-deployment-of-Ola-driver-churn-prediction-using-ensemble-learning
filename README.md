@@ -12,7 +12,7 @@ As the companies get bigger, the high churn could become a bigger problem. To fi
 
  ## Approach : 
 
- Bought the data into a proper structure  
+ Bought the data into a proper structure using feature engineering
 
  Performed data analysis 
 
@@ -22,13 +22,17 @@ As the companies get bigger, the high churn could become a bigger problem. To fi
 
  Made a demo using streamlit for Poc.
 
+ Developed Flask API and tested the endpoint on POSTMAN 
+
+ Created AWS EC2 instance and deployed the app on the same and finally stopped the instance (https://54.198.248.170/predict)
+
 ## Streamlit demo : 
  
 [OLA_ensemble_driver_churn.webm](https://github.com/user-attachments/assets/dc60f1d8-39dd-4e64-8c0e-c8e3f36c040c)
 
 Future updates : Flask Api + docker +  deploy on AWS....
 
-Created a flask api and tested it on POSTMAN
+Created a flask api and tested it on POSTMAN (screenshot)
 .
 
 ![ola_flask_post](https://github.com/user-attachments/assets/129c2c4f-b5d4-4a1c-9c85-510171e61508)
